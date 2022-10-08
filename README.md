@@ -5,7 +5,7 @@
 
 # 2D Tower Defense Game
 
-## Feature
+## Features
 
 1. Enemy, Projectiles
 2. 2 Level
